@@ -5,8 +5,11 @@
 *.so
 *.dylib
 
-# ide
+# Idea
 .idea/
+
+# Log
+*.log
 
 # Test binary, built with `go test -c`
 *.test
