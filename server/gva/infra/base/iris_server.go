@@ -5,7 +5,7 @@ import (
 	"github.com/kataras/iris/middleware/logger"
 	irisrecover "github.com/kataras/iris/middleware/recover"
 	"github.com/sirupsen/logrus"
-	"iris-vue-admin/infra"
+	"gva/infra"
 	"time"
 )
 

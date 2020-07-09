@@ -7,7 +7,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"gopkg.in/go-playground/validator.v9"
 	vzth "gopkg.in/go-playground/validator.v9/translations/zh"
-	"iris-vue-admin/infra"
+	"gva/infra"
 	"strings"
 )
 

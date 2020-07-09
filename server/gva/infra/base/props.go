@@ -2,7 +2,7 @@ package base
 
 import (
 	"github.com/tietang/props/kvs"
-	"iris-vue-admin/infra"
+	"gva/infra"
 )
 
 var props kvs.ConfigSource

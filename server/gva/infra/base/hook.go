@@ -1,7 +1,7 @@
 package base
 
 import (
-	"iris-vue-admin/infra"
+	"gva/infra"
 	"os"
 	"os/signal"
 	"reflect"

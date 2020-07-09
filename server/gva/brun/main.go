@@ -2,12 +2,13 @@ package main
 
 import (
 	log "github.com/sirupsen/logrus"
-	"iris-vue-admin/infra"
+	"gva/infra"
 
 	"github.com/tietang/props/ini"
 	"github.com/tietang/props/kvs"
-	_ "iris-vue-admin"
+	_ "gva"
 )
+
 
 func main() {
 	defer func() {
